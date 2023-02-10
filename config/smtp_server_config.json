@@ -1,0 +1,6 @@
+{
+  "host": "smtp.example.com:",
+  "port": 1000,
+  "user": "YOUR_SMTP_USERNAME",
+  "password": "YOUR_SMTP_PASSWORD"
+}
