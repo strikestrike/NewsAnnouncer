@@ -8,7 +8,7 @@ import json
 import smtplib
 from email.mime.text import MIMEText
 
-# extract data for crawling
+# extract crawling data
 
 
 def extract_data(urls):
